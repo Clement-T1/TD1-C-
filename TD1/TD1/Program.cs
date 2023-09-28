@@ -10,7 +10,7 @@ namespace TD1
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.Write("Veuillez entrer la somme d'argent : ");
             int montant = int.Parse(Console.ReadLine());
